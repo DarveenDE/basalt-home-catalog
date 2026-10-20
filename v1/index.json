@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "id": "basalt.official",
+  "name": "Basalt",
+  "publisher": "sebi.digital",
+  "packages": [
+    {
+      "id": "basalt.language.de",
+      "type": "language",
+      "version": 3,
+      "names": {
+        "de": "Deutsch",
+        "en": "Deutsch"
+      },
+      "descriptions": {
+        "de": "Mitgelieferte deutsche Übersetzung",
+        "en": "Bundled German translation"
+      },
+      "artifact": "https://raw.githubusercontent.com/DarveenDE/basalt-home-catalog/main/v1/german.basalt",
+      "sha256": "bb29e919ae5b4a94e56bd81df4cc2868c12fe89251947a9d048aa5c774022997",
+      "size": 63622,
+      "locale": "de",
+      "schema": 1,
+      "examples": [
+        "Guten Abend",
+        "Alle Apps",
+        "Favoriten hinzufügen"
+      ],
+      "updateProof": {
+        "algorithm": "SHA256withRSA",
+        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl5K9J/y7/SkqcyHoPdN5PAEZQZKDqIz2HaP8iDF6bxlP2B1WyTEGMau0Vs6dmuu69+2SI1lafY29QqE8zdStdQi/QOUCJLYz8RUI//mELQt2gd8GlML2hwe81ayHdV0ZtKK9rCSp+i17ck3Fi6b3zpE5UNbU5TooncPDUKtpzghtliLPGoohb/t4s+xH+fXRxHusyP2IJpdjrM+5XXcbN0vFg7jLoroF+VqlDPYj+LcJmihUm3P8AvjJGziLKEo10blTabmvGA3aawYJo4uZiIjYR2MzVbpaAaZ/GAFpY5UDXn0LdqtJBxtpLCSjP9vrwDEOSpvOxj/Vr7FbQUVLMQIDAQAB",
+        "value": "WaYdFB3OkpHKgjrx6H7aNKZNRvNeh9RlA4ScflW+HJ2immc2WrAHiYYfjf5CquE9/A4xZpzI/jvlFCOcHnrJELJRRuNmz2PxZ5HyBS4ZVboULgoe0I+KboVitdmNAmu5UOXxCVTEz3UXoEAHO6IzB19f5g3yLySg4cMnwEvHn6vumGgj+dG+3md729183gag+xBodcLyuvA5mbwY/GxcgJxvZLsfhqn4k1GBzD9z6vGQH4aPKbJt+/3vTGQq6ZO821cZ05IZa8VW/Md2fur5teapOggNSX+JomeRCrjg+QhS8/tr+d4326NQivM0EG3DIACx46N1m5VAT9cbpjldVg=="
+      }
+    }
+  ]
+}
