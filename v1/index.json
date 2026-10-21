@@ -7,7 +7,7 @@
     {
       "id": "basalt.language.de",
       "type": "language",
-      "version": 3,
+      "version": 4,
       "names": {
         "de": "Deutsch",
         "en": "Deutsch"
@@ -16,9 +16,9 @@
         "de": "Mitgelieferte deutsche Übersetzung",
         "en": "Bundled German translation"
       },
-      "artifact": "https://raw.githubusercontent.com/DarveenDE/basalt-home-catalog/main/v1/german.basalt",
-      "sha256": "bb29e919ae5b4a94e56bd81df4cc2868c12fe89251947a9d048aa5c774022997",
-      "size": 63622,
+      "artifact": "https://raw.githubusercontent.com/DarveenDE/basalt-home-catalog/main/v1/german-v4.basalt",
+      "sha256": "f7f1f03f2ddef73650ff9d9858a4edd96d9e5675d1099f64e96fb0a40c3dbc1e",
+      "size": 65942,
       "locale": "de",
       "schema": 1,
       "examples": [
@@ -29,7 +29,11 @@
       "updateProof": {
         "algorithm": "SHA256withRSA",
         "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl5K9J/y7/SkqcyHoPdN5PAEZQZKDqIz2HaP8iDF6bxlP2B1WyTEGMau0Vs6dmuu69+2SI1lafY29QqE8zdStdQi/QOUCJLYz8RUI//mELQt2gd8GlML2hwe81ayHdV0ZtKK9rCSp+i17ck3Fi6b3zpE5UNbU5TooncPDUKtpzghtliLPGoohb/t4s+xH+fXRxHusyP2IJpdjrM+5XXcbN0vFg7jLoroF+VqlDPYj+LcJmihUm3P8AvjJGziLKEo10blTabmvGA3aawYJo4uZiIjYR2MzVbpaAaZ/GAFpY5UDXn0LdqtJBxtpLCSjP9vrwDEOSpvOxj/Vr7FbQUVLMQIDAQAB",
-        "value": "WaYdFB3OkpHKgjrx6H7aNKZNRvNeh9RlA4ScflW+HJ2immc2WrAHiYYfjf5CquE9/A4xZpzI/jvlFCOcHnrJELJRRuNmz2PxZ5HyBS4ZVboULgoe0I+KboVitdmNAmu5UOXxCVTEz3UXoEAHO6IzB19f5g3yLySg4cMnwEvHn6vumGgj+dG+3md729183gag+xBodcLyuvA5mbwY/GxcgJxvZLsfhqn4k1GBzD9z6vGQH4aPKbJt+/3vTGQq6ZO821cZ05IZa8VW/Md2fur5teapOggNSX+JomeRCrjg+QhS8/tr+d4326NQivM0EG3DIACx46N1m5VAT9cbpjldVg=="
+        "value": "WGJNcy+qnkVumZTITkUGmwMIAIQK7U9jgQDYiUKrNtzgUnNjAIqfO/O+O/5iUFyDELL7aPYUskH3wRioWviClUw+PTMnrnY0WYwibZkQyZYUvH+O4CJUJOlqTA/R4o2EvromdJFthjVBZG9Q8ytyw8WZi3NgvE7YyNGe+cEvFSglcjl/QB5BhK3/GF76bpj0ia3+V6n+lUXxcAwcuvoQ9KWZEUAJHr9xNhFqtIRJF/sFgPkkYulCM0hzXWwoISRzbn4CikLVT+kPbbkH3321SohGZcMc3G+QbrRsJWFJTS1wbZ5LWoUc30olk+91NYCEJ7EvShOuNS5AhMCE3xetiA=="
+      },
+      "compatibility": {
+        "minAppVersion": 14,
+        "packageFormat": 1
       }
     }
   ]
